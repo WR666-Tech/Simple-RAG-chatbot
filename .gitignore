@@ -179,3 +179,12 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Chroma 向量数据库
+chroma_db/
+
+# 本地环境变量
+.env
+
+# 日志文件
+*.log
